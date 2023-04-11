@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74a99d46-2fa8-4d79-974e-44cede17e272" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.fleet/run.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.fleet/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aritmeticos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comentarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 1 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 3 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entrada de datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funciones Integradas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operadores Logicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operadores R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Salida de datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formato de impresion en Cadenas de Texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indices y slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operadores Asig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/propiedades y metodos de cadednas.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LxqQr5MYitPYwOj5Wu8O5wPoKP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Mateo/Documents/Mateo/Python"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74a99d46-2fa8-4d79-974e-44cede17e272" name="Changes" comment="" />
+      <created>1676823077109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676823077109</updated>
+    </task>
+    <servers />
+  </component>
+</project>
