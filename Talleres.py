@@ -4,7 +4,7 @@
 #Primero, mostraremos un mensaje en pantalla dando la bienvenida al usuario
 #y escribiendo el nombre de la red.
 
-#A continuaciÃ³n preguntaremos algunos datos al usuario para poder construir su perfil,
+#A continuacion preguntaremos algunos datos al usuario para poder construir su perfil,
 #y guardaremos esta informaciÃ³n en variables.
 
 #Finalmente, escribiremos en pantalla todos los datos que hemos recolectado, y permitiremos
@@ -35,7 +35,7 @@
 print("Bienvenido a ... ")
 print("")
 
-#Primera interacciÃ³n. Solicitamos al usuario que ingrese su nombre,
+#Primera interaccion. Solicitamos al usuario que ingrese su nombre,
 #y lo guardamos en una variable de tipo str
 nombre = input("Para empezar, dime como te llamas. ")
 print()
