@@ -13,9 +13,13 @@ coleccion = [2, 1, 3, "juan"]
 for i in coleccion:
     print(i)
 
-# se puede hacer con tuplas
+milista = [1,2,3,4,5,6,7,8,9,10]
 
-tuplas = (1, 1, 1, 2, 3, 3, 4, 4, 5, 6, 6)
-
-for tuples in tuplas:
-    print(tuplas)
+for jamon in milista:
+    if jamon % 2==0:
+        print(jamon)
+        
+    else:
+        print(f'si no es par {jamon}')
+        
+       

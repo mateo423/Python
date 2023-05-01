@@ -27,8 +27,6 @@ elif opcion =='4':
         
     print("Adios")
 
-
-
 else:
-            saldo_inicia = saldo_inicia - retirar
+        saldo_inicia = saldo_inicia - retirar
 print("Error no sabes leer jil de mierda hay solamente 1 opcion gey")
