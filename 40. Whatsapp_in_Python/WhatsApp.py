@@ -13,7 +13,7 @@ for i in msm:
 
 print(len(mensaje))
 
-n = np.random.randint(0,83)
+n = np.random.randint(0, 83)
 
 
 url = 'https://www.web.whatsapp.com/send?phone='
