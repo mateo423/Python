@@ -9,5 +9,5 @@ miset = set()
 
 miset.add(1)
 print(miset)
-mi_lista = [1,2,2,2,2,2,2,1,1,1,3,3,3,3,4,4,4,4]
+mi_lista = [1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 3, 3, 3, 3, 4, 4, 4, 4]
 print(set(mi_lista))

@@ -1,4 +1,4 @@
-mi_lista = ['a','x','n','r','e']
+mi_lista = ['a', 'x', 'n', 'r', 'e']
 num_lista = [4,1,5,7,3]
 #la funcion de el sort organiza las listas
 num_lista.sort()

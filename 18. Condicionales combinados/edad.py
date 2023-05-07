@@ -5,7 +5,7 @@ edad = int(input('digite su edad -> '))
 if 0 < edad < 100 and edad > 18:
     print("eres mayor de edad")
     
-elif edad > 0 and edad < 18:
+elif 0 < edad < 18:
     print('eres menor de edad')
     
 elif edad == 18:

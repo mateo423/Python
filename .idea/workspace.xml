@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a99d46-2fa8-4d79-974e-44cede17e272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/24. Ciclo While/Fahrenheit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33. Metodos  y funciones/funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33. Metodos  y funciones/logica.py" beforeDir="false" afterPath="$PROJECT_DIR$/33. Metodos  y funciones/logica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WhatsApp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/date.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mensaje.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16. Ejercicio 5 - Descuento del 15% en una tienda/ejercicio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. Ejercicio 5 - Descuento del 15% en una tienda/ejercicio 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18. Condicionales combinados/edad.py" beforeDir="false" afterPath="$PROJECT_DIR$/18. Condicionales combinados/edad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25. Colecciones listas/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/25. Colecciones listas/listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26. Colecciones Conjuntos/stes.py" beforeDir="false" afterPath="$PROJECT_DIR$/26. Colecciones Conjuntos/stes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27. Colecciones Conjuntos parte 2/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/27. Colecciones Conjuntos parte 2/listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29. Colecciones Diccionarios/Diccionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/29. Colecciones Diccionarios/Diccionarios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30. Colecciones Organizar listas/Organizarlistas.py" beforeDir="false" afterPath="$PROJECT_DIR$/30. Colecciones Organizar listas/Organizarlistas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34. args y kwargs/args.py" beforeDir="false" afterPath="$PROJECT_DIR$/34. args y kwargs/args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talleres.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateo/Documents/GitHub/Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Mateo/Documents/GitHub/Python",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -19,3 +19,5 @@ def funcion(**kwargs):
 
 # aca llamamos nuestra funcion
 funcion(fruta="manzana", vegetales="lechuga")
+
+
