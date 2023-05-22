@@ -10,7 +10,7 @@ def name(nombre):
     print(f' hola {nombre} encantando de saludarte')
 
 
-name(nombre=input("como te llama : "))
+name(nombre=input("como te llamas : "))
 
 opciones = int(input("Hola bienvenido a este programa  donde tu puedes realizar varios varios programa bueno aqui \n"
                      "veras una  lista de que programa puedes realizar \n 1-Calculadora \n 2-Programade edades \n "
