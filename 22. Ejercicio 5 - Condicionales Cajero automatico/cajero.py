@@ -29,4 +29,4 @@ elif opcion =='4':
 
 else:
         saldo_inicia = saldo_inicia - retirar
-print("Error no sabes leer jil de mierda hay solamente 1 opcion gey")
+print("Error no sabes leer gil de mierda hay solamente 1 opcion gey")

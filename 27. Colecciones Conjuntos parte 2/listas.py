@@ -1,3 +1,10 @@
+
+
+
+mi_lista2 = ['mateo','cristian','josue','estela']
+mi_lista = ["castro", 'pedroza']
+
+
 # Como tal se puede almacenar y crear una nueva variable que almacene las 2 variables para sumarla
 nueva_lista = mi_lista2 + mi_lista
 print(nueva_lista)
@@ -22,3 +29,4 @@ print(nueva_lista)
 # ahora donde va este numero que sacamos nosotros podemos guardarlo en una variable
 item_popeado = nueva_lista.pop(0)
 print(item_popeado)
+

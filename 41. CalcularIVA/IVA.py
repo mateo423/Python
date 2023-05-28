@@ -1,10 +1,10 @@
 """Hacer un programa que calcule el IVA de una compra  """
 
-def CalcularIVA(p):
-    IVA = p*0.19
+def CalcularIVA(compra):
+    IVA = compra*0.19
     return IVA
 
-precioCompra= float(input("Ingrese el valor de la compra"))
+precioCompra= float(input("Ingrese el valor de la compra: "))
 
 IVA = CalcularIVA(precioCompra)
 

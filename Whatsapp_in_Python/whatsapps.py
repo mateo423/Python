@@ -5,7 +5,7 @@ import numpy
 
 numero_telefono = '+57 3123113498'
 
-msm = open('mensajes.text')
+msm = open('C:\Users\Mateo\Documents\GitHub\Python\Whatsapp_in_Python\mensaje.txt')
 mensaje = []
 for i in msm:
     if i != '/n':
@@ -13,7 +13,7 @@ for i in msm:
 
 print(len(mensaje))
 
-n = np.random.randint(0, 83)
+n = numpy.random.randint(0, 83)
 
 
 url = 'https://www.web.whatsapp.com/send?phone='
