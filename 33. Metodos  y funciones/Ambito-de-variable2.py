@@ -1,9 +1,10 @@
 def factorial(n):
-    resultado =  1 
-    for i in range(1,n+1):
-        resultado = i+1
-    return resultado
+    resulta = 1
+    for i in range(1, n + 1):
+        resulta = i + 1
+    return resulta
 
-resultado  =  factorial(5)
 
-print(resultado)
+resulta = factorial(5)
+
+print(resulta)

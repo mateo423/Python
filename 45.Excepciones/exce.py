@@ -14,10 +14,10 @@ try:
     archivo = open("archivo.txt")
     # procesar el archivo
 except OSError:
-    print ("Error de entrada/salida.")
+    print("Error de entrada/salida.")
     # realizar procesamiento adicional
 except Exception as e:
-    print('Ocurrio una exception',str(e))
+    print('Ocurrio una exception', str(e))
     # procesar la excepción
 finally:
     # si el archivo no es None y no esta cerrado, hay que cerrarlo

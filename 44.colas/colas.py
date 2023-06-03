@@ -1,9 +1,6 @@
 # Cola 
 
-cola  = ["Mateo", "Cristian", "Josue", "Sofia"]
-
-cola.append('Kevin')
-cola.append('Pablo')
+cola = ["Mateo", "Cristian", "Josue", "Sofia", 'Kevin', 'Pablo']
 
 print(cola)
 
