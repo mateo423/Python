@@ -9,7 +9,7 @@ Finalmente deberíamos agregar un bloque finally para cerrar el archivo, haya su
 
 # ---- Bloque ----
 
-archivo = None
+archivo = None # Archivo None  signifca que esta vacido 
 try:
     archivo = open("archivo.txt")
     # procesar el archivo

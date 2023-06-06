@@ -1,0 +1,27 @@
+Nota 1 {
+    except OSError : este tipo de de error  es de entrada y salida de un archivo 
+    except Exception as e: este tipo de error es de Exception
+}
+
+Nota 2 {
+     if archivo is not None and not archivo.closed: Significa que si el archivo no es None y no esta cerrado hay que cerrarlo: archivo.close()
+
+}
+
+Nota 3 {
+    except requests.exceptions.RequestException as e: esto Significa que ocurrio un error enviar la solicutud en una web API  este error  es con la importacion de la libreria requests
+}
+
+Nota 4 {
+    except ZeroDivisionError: este tipo de error sucede cuando ponemos a dividir un numero entre 0 
+}
+
+Nota 5 {
+    except ValueError:
+    que se lanza cuando ocurre un error relacionado con el valor de una variable o argumento. 
+}
+
+Nota 6 {
+    except ConnectionError:
+    cuando  la connection da errores 
+}
